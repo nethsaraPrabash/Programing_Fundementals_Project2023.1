@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691907357 source:c:\users\kaveesh\desktop\atm last one\main.c
+	<stdio.h>
+	<stdlib.h>
+
